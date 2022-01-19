@@ -1,5 +1,4 @@
 # Hello-World
 Intro
 
-Jag heter Ludvig. 
-Jag är 22 år.
+Jag heter Ludvig. \n Jag är 22 år.
